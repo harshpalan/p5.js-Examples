@@ -28,8 +28,8 @@ function draw() {
 
   for(y=0;y< tilesY;y++){
     for(x=0;x<tilesX;x++){
-      var wave = cos((frameCount)+x*y*0.05)*150;
-      // var wave = sin((frameCount + ( x*y )) * 0.05) * 200;
+      // var wave = cos((frameCount)+x*y*0.05)*150;
+      var wave = sin((frameCount + ( x*y )) * 0.05) * 200;
       //source
       var sx =  x * tileW + wave;
       var sy =  y * tileH;
