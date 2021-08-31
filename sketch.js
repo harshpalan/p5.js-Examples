@@ -12,7 +12,7 @@ function setup() {
 
 function draw() {
   background(colorPicker.color());
-  pg.text('Speed:',speedSlider.x * 20 + speedSlider.width,425);
+  // text('Speed:',100,400);
   // pg.background('#EA0707');
   pg.fill(colorPicker2.color()).textSize(150);
   pg.push();
