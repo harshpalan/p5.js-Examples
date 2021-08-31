@@ -4,5 +4,10 @@ html, body {
 }
 
 canvas {
+  margin: 10px;
   display: block;
+}
+
+input{
+  margin-left:10px ;
 }
