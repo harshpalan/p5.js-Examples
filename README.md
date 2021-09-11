@@ -6,6 +6,7 @@ VScode extensions used : p5.vscode,p5js Snippets.
 Still work in progress. 
 
 Check this out here : https://harshpalan.github.io/p5.js-Examples/
+(Works better on desktop)
 
 To run this project:
   - Clone this repository
