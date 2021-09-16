@@ -11,4 +11,4 @@ Check this out here : https://harshpalan.github.io/p5.js-Examples/
 To run this project:
   - Clone this repository
   - Run the index.html file
-  - "To edit live server extension would be helpful" 
+  - "live server extension would be helpful" 
